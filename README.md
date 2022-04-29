@@ -1,14 +1,3 @@
-<p align="center">
-  <p align="center">
-    A great platform to learn Django. 
-  </p>
-  <p align="center">
-    <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
-      <img src="https://assets.justdjango.com/static/branding/logo.svg" alt="JustDjango" height="72">
-    </a>
-  </p>
-</p>
-
 
 # Getting started
 
@@ -26,5 +15,17 @@ This project includes:
 3. A cli tool for setting environment variables for deployment
 
 ---
+
+<p align="center">
+  <p align="center">
+    A great platform to learn Django. 
+  </p>
+  <p align="center">
+    <a href="https://justdjango.com/?utm_source=github&utm_medium=logo" target="_blank">
+      <img src="https://assets.justdjango.com/static/branding/logo.svg" alt="JustDjango" height="72">
+    </a>
+  </p>
+</p>
+
 
 
